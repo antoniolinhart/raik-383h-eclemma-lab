@@ -11,7 +11,7 @@ Code coverage is a metric that can help determine how much of your code is execu
 
 2. Click on `Coverage As -> JUnit Test`
 
-   <img src="./images/Step2.png" alt="Screenshot showing how to run EclEmma" style="zoom:25%;" />
+   <img src="../images/Step2.png" alt="Screenshot showing how to run EclEmma" style="zoom:25%;" />
 
 3. A panel will then pop up showing the code coverage for the different packages and the classes in the project
 
