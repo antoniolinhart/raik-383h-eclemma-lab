@@ -17,11 +17,11 @@ Code coverage is a metric that can help determine how much of your code is execu
 
 4. Lines that have been covered will be highlighted in green and lines that have not will be highlighted in red
 
-   <img src="./images/Step4.png" alt="Screenshot showing code coverage percents and red/green lines" style="zoom:25%;" />
+   <img src="../images/Step4.png" alt="Screenshot showing code coverage percents and red/green lines" style="zoom:25%;" />
 
 5. To remove these highlights, select `Remove All Sessions ` in the panel
 
-   <img src="./images/Step5.png" alt="Screenshot showing button for removing all sessions" style="zoom:50%;" />
+   <img src="../images/Step5.png" alt="Screenshot showing button for removing all sessions" style="zoom:50%;" />
 
 ### Challenge
 
